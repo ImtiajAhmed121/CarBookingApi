@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.obj
+*.pdb
+bin/
+obj/
+packages/
+TestResults/
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
